@@ -1,6 +1,3 @@
-Here is a professional and comprehensive `README.md` file for your **GeneVerse** repository. You can copy and paste this directly into your GitHub project.
-
----
 
 # GeneVerse: Genetic Trait Mapping & Inheritance Tracker
 
@@ -135,4 +132,4 @@ This project is licensed under the MIT License - see the [LICENSE]() file for de
 
 Contributions are welcome! If you have suggestions for new features or data improvements, feel free to open an issue or submit a pull request.
 
-**Author:** [Deshnaa2007]()
+**Author:** [Deshna24]()
